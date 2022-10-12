@@ -1,10 +1,10 @@
 R1:
-![](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/first/src/1R.gif)
+<img src="src/1R.gif" width="800">
 R2:
-![](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/first/src/2R.gif)
+<img src="src/2R.gif" width="800">
 R3:
-![](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/first/src/3R.gif)
+<img src="src/3R.gif" width="800">
 
-doc:  [first task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/first/putin_m_1.pdf)
+pdf:  [first task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/first/putin_m_1.pdf)
 
 ipynb: [first task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/first/putin1.ipynb)
