@@ -11,6 +11,6 @@
 <img src="src/3.png" width="800">
 
 
-pdf:  [first task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/second/putin_m_2.pdf)
+pdf:  [second task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/second/putin_m_2.pdf)
 
-ipynb: [first task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/second/putin2.ipynb)
+ipynb: [second task](https://github.com/alex2211-put/Modeling-of-waves-in-elastic-media/blob/main/second/putin2.ipynb)
